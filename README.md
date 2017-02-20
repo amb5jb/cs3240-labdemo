@@ -1,2 +1,2 @@
 # cs3240-labdemo
-Line added in a different way.
+Line that has been added in a different way.
